@@ -1,0 +1,14 @@
+Aspecto,Resultado
+Total de imágenes encontradas,1294
+Imágenes etiquetadas originales,1097
+Imágenes sin etiqueta en Test cases,197
+Clases supervisadas,"benign, malignant, normal"
+Imágenes finales tras limpieza,1054
+Resolución dominante,512x512
+Imágenes con resolución 512x512,993
+Imágenes con resolución atípica,61
+Duplicados exactos detectados,86
+Hashes con etiquetas contradictorias,0
+Train final,737
+Validation final,158
+Test final,159
