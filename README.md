@@ -184,9 +184,12 @@ proyecto_lung_cancer/
 ├── notebooks/
 │   ├── 01_eda_dataset.ipynb
 │   ├── 02_baseline_cnn.ipynb
-│   ├── 03_transfer_learning.ipynb
-│   ├── 04_gradcam_explainability.ipynb
-│   └── 05_results_analysis.ipynb
+│   ├── 03_mobilenet.ipynb
+│   ├── 04_resnet50.ipynb
+│   ├── 05_efficientnetb0.ipynb
+│   ├── 06_models_comparison
+│   ├── 07_gradcam_explainability.ipynb
+│   └── 08_results_analysis.ipynb
 │
 ├── models/
 │
@@ -195,4 +198,4 @@ proyecto_lung_cancer/
 │   └── memoria/
 │
 ├── README.md
-└── requirements.txt# proyecto_redes
+└── requirements.txt
